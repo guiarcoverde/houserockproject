@@ -17,3 +17,6 @@ Para executar o arquivo, use:
 ```console
 streamlit run house_rocket_final.py
 ```
+## Acesso ao projeto no heroku
+
+https://house-rocket-analytic1.herokuapp.com/
